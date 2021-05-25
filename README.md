@@ -1,4 +1,4 @@
-# eth-account
+# vap-account
 
 [![Join the chat at https://gitter.im/ethereum/eth-account](https://badges.gitter.im/ethereum/eth-account.svg)](https://gitter.im/ethereum/eth-account?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://circleci.com/gh/ethereum/eth-account.svg?style=shield)](https://circleci.com/gh/ethereum/eth-account)
